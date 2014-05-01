@@ -1,0 +1,6 @@
+{
+    "name": "vatican-example-app",
+    "dependencies": {
+        "vatican": "*"
+    }
+}
